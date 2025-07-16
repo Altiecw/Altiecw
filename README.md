@@ -1,4 +1,6 @@
-# Welcome to my profile and projects!
+<p align="center"><img src="Sphere.gif" alt="OpenGL rendering of inside a wireframe sphere" /></p>
+
+## Welcome to my profile and projects!
 
 My name is Creston Altiere. I am a graduate from the University of Central Florida with a masters in computer science. My work ranges from basic school projects such recreating old games like Hunt the Wumpus to scale models of theme parks and raytracings. The visual and creative side of programming is what I yearn to do, and I strive to implement style, whether it be computer graphics or clean code.
 
